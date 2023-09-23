@@ -9,3 +9,6 @@ nav{
     height: 60px;
     position: relative
 }
+li{
+    font-size: 20px;
+}
